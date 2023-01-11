@@ -1,0 +1,163 @@
+.header{
+    background-image: url("../images/donation13.jpg");
+    padding: 20px 20px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.head{
+    color: azure;
+}
+.pargrph{
+    font-size: 15px;
+    color: lightcyan;
+}
+.btn{
+    align-items: center;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 15px;
+    border: 0;
+    
+    height: 30px;
+    border-radius: 5px;
+    background: red;
+}
+
+.donate-today{
+    margin: 50px 150px;
+    text-align: center;
+}
+.taka{
+    display:flex;
+   gap: 30px;
+   justify-content: center;
+   
+    
+}
+.tk{
+    border: 1px solid white;
+    background-color: lightgray;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 10px;
+    padding-top: 25px;
+}
+#two{
+    background-color: lightsalmon;
+    color: red;
+}
+.p{
+    color: black;
+}
+.amount{
+    margin-top: 35px;
+    color: lightgrey;
+}
+hr{
+    color: lightgrey;
+}
+.plan{
+    margin: 50px 50px;
+    text-align: center;
+}
+.our-plan{
+    display:flex;
+    gap: 15px;
+    
+}
+.service1{
+    background-color: lightcyan;
+    padding: 10px 15px;
+    text-align: center;
+    box-shadow: 0px 0px 7px grey;
+    border-radius: 5px;
+}
+.service2{
+    background-color: lightpink;
+    padding: 10px 15px;
+    text-align: center;
+    box-shadow: 0px 0px 7px grey;
+    border-radius: 5px;
+}
+.service3{
+    background-color: lightgoldenrodyellow;
+    padding: 10px 15px;
+    text-align: center;
+    box-shadow: 0px 0px 7px grey;
+    border-radius: 5px;
+}
+.service-title{
+    font-weight: 700px;
+    font-size: 20px;
+}
+.service-description{
+    color: lightseagreen;
+}
+.contribute{
+    margin: 50px 50px;
+    text-align: center;
+}
+h1{
+    color: black;
+}
+.how-contribut{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.contribute-des{
+    color: lightgrey;
+}
+.img{
+    border-radius: 5px;
+}
+.info{
+    margin: 40px;
+}
+.update{
+    text-align: center;
+    margin: 50px 200px;
+}
+.button{
+    display: flex;
+    border:1px solid white ;
+    background-color:blanchedalmond;
+    height: 100px;
+    justify-content: center;
+}
+.email{
+    margin-top: 40px;
+    height: 15px;
+}
+.subscribe{
+    margin-top: 40px;
+    height: 20px;
+    background-color: red;
+    border color: white;
+}
+h2{
+    
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+    font-weight: 700px;
+    color:red;
+}
+h4{
+
+    color: white;
+}
+footer{
+    
+    background-color: black;
+    height: 300px;
+    text-align: center;
+}
+.foot{
+    padding-top: 80px;
+}
+ 
